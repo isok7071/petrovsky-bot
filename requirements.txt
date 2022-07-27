@@ -1,0 +1,13 @@
+pyTelegramBotAPI
+requests
+requests-ntlm
+schedule
+ntlm-auth
+numpy
+pandas
+Flask
+openpyxl
+bs4
+lxml
+telegraph
+psycopg2
